@@ -7,7 +7,6 @@ Internship: CODTECH AI/ML Internship
 Topic: SQL JOIN Operations  
 Tool Used: MySQL 8.0 Command Line Client
 
----
 
 ## 🛠 Tables Created
 
