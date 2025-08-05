@@ -41,7 +41,6 @@ INSERT INTO Departments (dept_id, dept_name) VALUES
 (40, 'Finance');
 
 
-
 🔗 SQL JOINs Performed
 
 🔸 INNER JOIN
