@@ -1,4 +1,4 @@
-# 📌 Internship Task – SQL JOINs
+# 📌 Internship Task2 – SQL JOINs
 
 *Intern Name:* Aina Marziya  
 *Internship Organization:* CODTECH  
